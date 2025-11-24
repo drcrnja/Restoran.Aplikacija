@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|c:\\users\\vaske\\desktop\\si seminarski\\restoran\\rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:rezervacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|c:\\users\\vaske\\desktop\\si seminarski\\restoran\\pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E9A36B-2E73-49D7-83DB-5CE913F0765B}|..\\Restoran.test\\Restoran.test.csproj|c:\\users\\vaske\\desktop\\si seminarski\\restoran.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|c:\\users\\vaske\\desktop\\si seminarski\\restoran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|c:\\users\\vaske\\desktop\\si seminarski\\restoran\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A954A7-570A-483C-942B-621BA8360BE7}|Restoran.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran.test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Restoran.test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran.test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Restoran.test\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:47:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rezervacija.cs",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Rezervacija.cs",
+              "RelativeDocumentMoniker": "Rezervacija.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Rezervacija.cs",
+              "RelativeToolTip": "Rezervacija.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwv8kAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:26:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pocetna.cs",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Pocetna.cs",
+              "RelativeDocumentMoniker": "Pocetna.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Pocetna.cs",
+              "RelativeToolTip": "Pocetna.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwOAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:42:58.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pocetna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Pocetna.cs",
+              "RelativeDocumentMoniker": "Pocetna.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Pocetna.cs [Design]",
+              "RelativeToolTip": "Pocetna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:42:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:21:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:59:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vaske\\Desktop\\SI seminarski\\Restoran\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:18:14.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
